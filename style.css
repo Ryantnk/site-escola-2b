@@ -58,9 +58,18 @@ body {
     padding: 4px 8px;
 }
 
+.estudante-titulo{
+    text-align: center;
+}
+
 .estudante-div{
     text-align: center;
     padding: 16px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 .escola-div-conteudo{
     width: 35%;
@@ -82,6 +91,10 @@ body {
     width: 24px;
     padding: 4px 8px;
 }
+.funcionario-titulo{
+    text-align: center;
+}
+
 
 .funcionário-div{
     text-align: center;
